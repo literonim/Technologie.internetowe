@@ -2,7 +2,7 @@
 #### by literonim
 
 
-## _Tworcy_
+## __Tworcy__
 
 ![zdjecie](http://upload.wikimedia.org/wikipedia/en/a/ae/John_Gruber.jpeg "John_Gruber")
 
