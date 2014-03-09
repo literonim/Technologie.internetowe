@@ -2,7 +2,7 @@
 #### by literonim
 
 
-## Tworcy
+## <code>Tworcy</code>
 
 ![markdown](http://upload.wikimedia.org/wikipedia/en/a/ae/John_Gruber.jpeg)
 
