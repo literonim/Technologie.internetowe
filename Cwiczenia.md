@@ -1,8 +1,8 @@
 # Markdown - nauka !
-### by literonim
+#### by literonim
 
 
-# Tworcy
+## Tworcy
 
 ![markdown](http://upload.wikimedia.org/wikipedia/en/a/ae/John_Gruber.jpeg)
 
