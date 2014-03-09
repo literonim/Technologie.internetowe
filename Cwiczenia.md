@@ -4,6 +4,6 @@
 
 ## <code>__Tworcy__</code>
 
-![markdown](http://upload.wikimedia.org/wikipedia/en/a/ae/John_Gruber.jpeg)
+![zdjecie](http://upload.wikimedia.org/wikipedia/en/a/ae/John_Gruber.jpeg "John_Gruber")
 
-![markdown](http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/432px-Aaron_Swartz_profile.jpg)
+![zdjecie](http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/432px-Aaron_Swartz_profile.jpg "Aaron_Swartz")
