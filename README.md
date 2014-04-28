@@ -17,4 +17,9 @@
 - Sprawdzanie zmian w kodzie
 - GitHub Wiki
 
-###Pierwsze kroki
+##Pierwsze kroki
+
+####Wstępna konfiguracja
+
+Konfiguracja własnej nazwy użytkownika:
+> $ git config --global user.name "twoja_nazwa"
