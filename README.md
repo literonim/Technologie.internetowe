@@ -24,5 +24,7 @@
 Konfiguracja własnej nazwy użytkownika:
 
 `$ git config --global user.name "twoja_nazwa"`
+Konfiguracja adresu e-mail:
+`$ git config --global user.email twoja_nazwa@twoja_nazwa.twoja_nazwa`
 
 
