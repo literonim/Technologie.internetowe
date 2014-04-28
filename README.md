@@ -8,7 +8,7 @@
 
 
 Niektóre z funkcji oferowane przez portal ![](http://www.njs.com.np/a/GitHub_Logo_small.png)
-================================================================================================
+========
 
 
 
