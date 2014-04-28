@@ -17,4 +17,4 @@
 - Sprawdzanie zmian w kodzie
 - GitHub Wiki
 
-##Pierwsze kroki
+###Pierwsze kroki
