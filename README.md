@@ -88,3 +88,5 @@ To tyle odnośnie krótkiego wstępu, poniżej zamieszczam listę z przydatnymi 
 [Nauka markdown-a](http://markdowntutorial.com/)
 
 [Pro Git book](http://git-scm.com/book/pl/)
+
+[Github Wikipedia](http://pl.wikipedia.org/wiki/GitHub)
