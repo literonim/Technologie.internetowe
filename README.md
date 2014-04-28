@@ -23,6 +23,6 @@
 
 Konfiguracja własnej nazwy użytkownika:
 
-`aaa`
+`$ git config --global user.name "twoja_nazwa"`
 
 
