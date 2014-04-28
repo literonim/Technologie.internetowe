@@ -22,6 +22,5 @@
 ####Wstępna konfiguracja
 
 Konfiguracja własnej nazwy użytkownika:
-
 ``$ git config --global user.name "twoja_nazwa"``
 
