@@ -4,4 +4,6 @@ __Hiperinflacja__ - jest to inflacja na bardzo wysokim poziomie powodowana przez
 
 ##Najgorsze przypadki w historii!
 
-1. 
+1. Węgry 
+
+![](http://www.monetarium.hu/images/webshop/34822_1fd0d1e38cdc9aeb0ac25d31a129f01d.jpg)
