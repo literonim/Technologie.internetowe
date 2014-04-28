@@ -29,4 +29,6 @@ Konfiguracja adresu e-mail:
 
 `$ git config --global user.email twoja_nazwa@twoja_nazwa.twoja_nazwa`
 
+Aby sprawdzić bieżącą listę ustawień należy użyć następującego polecenia:
 
+`$ git config --list`
