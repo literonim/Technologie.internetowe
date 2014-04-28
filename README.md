@@ -83,7 +83,7 @@ The key fingerprint is:
 
 
 
-To tyle odnośnie krótkiego wstępu, poniżej zamieszczam listę z przydatnymi adresami witryn internetowych:
+~~To tyle odnośnie krótkiego wstępu, poniżej zamieszczam listę z przydatnymi adresami witryn internetowych:~~
 
 [Nauka markdown-a](http://markdowntutorial.com/)
 
