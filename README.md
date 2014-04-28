@@ -81,5 +81,7 @@ The key fingerprint is:
 44:c6:3b:8f:c2:j8:66:33:bb:92:n8:87:3l:1l:8k:2n twoja_nazwa@twoja_nazwa.twoja_nazwa
 ```
 
-To tyle odnośnie krótkiego wstępu, poniżej zamieszczam listę adresów stron:
+To tyle odnośnie krótkiego wstępu, poniżej zamieszczam listę z przydatnymi adresami:
+
 [Nauka markdown-a](http://markdowntutorial.com/)
+
