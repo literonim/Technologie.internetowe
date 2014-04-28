@@ -16,3 +16,5 @@
 - Klonowanie repozytoriów
 - Sprawdzanie zmian w kodzie
 - GitHub Wiki
+
+##Pierwsze kroki
