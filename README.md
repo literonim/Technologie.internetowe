@@ -21,6 +21,6 @@
 
 ####Wstępna konfiguracja
 
-Konfiguracja własnej nazwy użytkownika:
+Konfiguracja własnej nazwy użytkownika:``
 
 
