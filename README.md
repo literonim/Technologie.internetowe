@@ -42,3 +42,27 @@ Aby sprawdzić bieżącą listę ustawień należy użyć następującego polece
 Klonowanie istniejącego repozytorium:
 
 `$ git clone git://github.com/twoja_nazwa/twoja_nazwa.git`
+
+Sprawdzanie stanu plików:
+
+`$ git status`
+
+Aby rozpocząć śledzenie nowego pliku użyj komendy:
+
+`$ git add twoja_nazwa`
+
+Zatwierdzanie zmian:
+
+`$ git commit`
+
+Podgląd historii rewizji:
+
+`$ git log`
+
+Pobieranie danych ze zdalnego projektu:
+
+`$ git fetch [twoja_nazwa_zdalengo_repozytorium]`
+
+Wypychanie zmian na zewnątrz:
+
+`$ git push [twoja_nazwa_zdalnego_repo] [twoja_nazwa_gałęzi]`
