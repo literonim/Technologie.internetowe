@@ -19,6 +19,12 @@
 
 ##Pierwsze kroki
 
+Pomoc:
+
+`$ git help <polecenie>
+$ git <polecenie> --help
+$ man git-<polecenie>`
+
 Konfiguracja własnej nazwy użytkownika:
 
 `$ git config --global user.name "twoja_nazwa"`
@@ -30,3 +36,4 @@ Konfiguracja adresu e-mail:
 Aby sprawdzić bieżącą listę ustawień należy użyć następującego polecenia:
 
 `$ git config --list`
+
