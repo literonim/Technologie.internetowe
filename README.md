@@ -1,5 +1,5 @@
 # Markdown - nauka !
-########## by literonim
+######## by literonim
 
 
 ![](http://www.njs.com.np/a/GitHub_Logo_small.png) to strona która została uruchomiona w kwietniu 2008 roku przez Tom-a Preston-Werner-a, Chris-a Wanstrath-a oraz PJ Hyett-a. Sewris przeznaczony jest do rozwoju projektów programistycznych wykorzystujący system kontroli wersji Git. 10 kwietnia 2013 roku ![](http://www.njs.com.np/a/GitHub_Logo_small.png) ogłosił iż posiada 3.5 miliona zarejestrowanych użytkowinków i przechowuje ponad 6 milionów repozyntoriów.
