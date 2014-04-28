@@ -83,10 +83,12 @@ The key fingerprint is:
 
 
 
-To tyle odnośnie krótkiego wstępu, poniżej zamieszczam listę z przydatnymi adresami:
+To tyle odnośnie krótkiego wstępu, poniżej zamieszczam listę z przydatnymi adresami witryn internetowych:
 
 [Nauka markdown-a](http://markdowntutorial.com/)
 
 [Pro Git book](http://git-scm.com/book/pl/)
 
 [Github Wikipedia](http://pl.wikipedia.org/wiki/GitHub)
+
+[Podstawy Git-a i Github-a](http://designconcept.webdev20.pl/articles/podstawy-gita-i-githuba/)
