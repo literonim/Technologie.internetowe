@@ -21,11 +21,11 @@
 
 Pomoc:
 
-``
+```
 $ git help <polecenie>
 $ git <polecenie> --help
 $ man git-<polecenie>
-``
+```
 
 Konfiguracja własnej nazwy użytkownika:
 
