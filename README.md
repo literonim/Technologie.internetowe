@@ -7,7 +7,7 @@
 
 
 
-*Niektóre z funkcji oferowane przez portal* ![](http://www.njs.com.np/a/GitHub_Logo_small.png)
+***Niektóre z funkcji oferowane przez portal*** ![](http://www.njs.com.np/a/GitHub_Logo_small.png)
 
 - Projekty mogą być publikowane na serwerach Github-a oraz przechowywane lokalnie
 - Posiada interfejs graficzny
