@@ -21,7 +21,7 @@
 
 Pomoc:
 
-```
+```no-highlight
 $ git help <polecenie>
 $ git <polecenie> --help
 $ man git-<polecenie>```
