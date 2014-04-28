@@ -10,15 +10,13 @@
 Niektóre z funkcji oferowane przez portal ![](http://www.njs.com.np/a/GitHub_Logo_small.png)
 ========
 
-
-
-Projekty mogą być publikowane na serwerach Github-a oraz przechowywane lokalnie
-Posiada interfejs graficzny
-Wyszukiwarka repozytoriów
-Możliwość klonowania repozytoriów
-Statystyki
-Przeglądanie historii
-Tworzenie gałęzi oraz zarządzanie nimi
-Klonowanie repozytoriów
-Sprawdzanie zmian w kodzie
-GitHub Wiki
+- Projekty mogą być publikowane na serwerach Github-a oraz przechowywane lokalnie
+- Posiada interfejs graficzny
+- Wyszukiwarka repozytoriów
+- Możliwość klonowania repozytoriów
+- Statystyki
+- Przeglądanie historii
+- Tworzenie gałęzi oraz zarządzanie nimi
+- Klonowanie repozytoriów
+- Sprawdzanie zmian w kodzie
+- GitHub Wiki
