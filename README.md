@@ -21,6 +21,7 @@
 
 ####Wstępna konfiguracja
 
-Konfiguracja własnej nazwy użytkownika:`aaa`
+Konfiguracja własnej nazwy użytkownika:
+`aaa`
 
 
