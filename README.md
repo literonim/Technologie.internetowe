@@ -84,4 +84,4 @@ The key fingerprint is:
 To tyle odnośnie krótkiego wstępu, poniżej zamieszczam listę z przydatnymi adresami:
 
 [Nauka markdown-a](http://markdowntutorial.com/)
-
+[Pro Git book](http://git-scm.com/book/pl/)
