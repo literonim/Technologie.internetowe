@@ -14,7 +14,7 @@ W 1946 roku ceny na Węgrzech podwajały się co 16 godzin. W kraju pojawiły si
 
 - __Zimbabwe__, __2008 r.__, __79,6 mld proc.__
 
-Na scieżkę hiperinflacji Zimbabwe weszło wkrótce po 2000 r. gdy skonfiskowano gospodarstwa rolne białych i dmówiono spłaty długu wobec MFN. Potrwała do roku 2009 r. Wywłaszczenie ziem spowodowało załamanie się gospodarki kraju, gwałtownie spadła produkcja żywności, a ceny poszły do góry. __W 2008 roku drukowano taką ilość banknotów, że brakowało na nie papieru.__
+Na scieżkę hiperinflacji Zimbabwe weszło wkrótce po 2000 r. gdy skonfiskowano gospodarstwa rolne białych i odmówiono spłaty długu wobec MFN. Potrwała do roku 2009 r. Wywłaszczenie ziem spowodowało załamanie się gospodarki kraju, gwałtownie spadła produkcja żywności, a ceny poszły do góry. __W 2008 roku drukowano taką ilość banknotów, że brakowało na nie papieru.__
 
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Zimbabwe_$100_trillion_2009_Obverse.jpg/1024px-Zimbabwe_$100_trillion_2009_Obverse.jpg)
