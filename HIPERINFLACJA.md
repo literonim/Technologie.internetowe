@@ -4,7 +4,7 @@ __Hiperinflacja__ - jest to inflacja na bardzo wysokim poziomie powodowana przez
 
 ##Najgorsze przypadki w historii!
 
-1. __Węgry__, __1946 r.__, __13,6 bld proc.__
+- __Węgry__, __1946 r.__, __13,6 bld proc.__
 
 
 W 1946 roku ceny na Węgrzech podwajały się co 16 godzin. W kraju pojawiły się banknoty o nominale miliard bilionów, czyli jedynka i 21 zer zamiast opisu cyfrowego znajdowało się oznaczenie Egymilliard B-pengo. Sytuacja była tak zła iż ówczesny rząd zmuszony był do wprowadzenia dodatkowej waluty, której używano jedynie do płacenia podatków i kupowania znaczków na poczcie. 
@@ -12,7 +12,7 @@ W 1946 roku ceny na Węgrzech podwajały się co 16 godzin. W kraju pojawiły si
 ![](http://www.monetarium.hu/images/webshop/34822_1fd0d1e38cdc9aeb0ac25d31a129f01d.jpg)
 ![](http://s11.images.www.tvn.hu/2011/07/17/21/19/www.tvn.hu_feb4f103d67af90ac68144abd9375c4b.png)
 
-2. 
+- 
 
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Zimbabwe_$100_trillion_2009_Obverse.jpg/1024px-Zimbabwe_$100_trillion_2009_Obverse.jpg)
