@@ -39,3 +39,6 @@ Aby sprawdzić bieżącą listę ustawień należy użyć następującego polece
 
 `$ git config --list`
 
+Klonowanie istniejącego repozytorium:
+
+`$ git clone git://github.com/twoja_nazwa/twoja_nazwa.git`
