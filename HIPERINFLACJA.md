@@ -7,3 +7,4 @@ __Hiperinflacja__ - jest to inflacja na bardzo wysokim poziomie powodowana przez
 1. Węgry 
 
 ![](http://www.monetarium.hu/images/webshop/34822_1fd0d1e38cdc9aeb0ac25d31a129f01d.jpg)
+![](http://s11.images.www.tvn.hu/2011/07/17/21/19/www.tvn.hu_feb4f103d67af90ac68144abd9375c4b.png)
