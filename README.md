@@ -78,7 +78,8 @@ Enter same passphrase again:
 Your identification has been saved in /twoja_nazwa/twoja_nazwa/twoja_nazwa/twoja_nazwa_rsa.
 Your public key has been saved in /twoja_nazwa/twoja_nazwa/twoja_nazwa/twoja_nazwa_rsa.pub.
 The key fingerprint is:
-43:c5:5b:5f:b1:f1:50:43:ad:20:a6:92:6a:1f:9a:3a twoja_nazwa@twoja_nazwa.twoja_nazwa
+44:c6:3b:8f:c2:j8:66:33:bb:92:n8:87:3l:1l:8k:2n twoja_nazwa@twoja_nazwa.twoja_nazwa
 ```
 
-ojdpowejdpowejdpowe
+To tyle odnośnie krótkiego wstępu, poniżej zamieszczam listę adresów stron:
+[Nauka markdown-a](http://markdowntutorial.com/)
