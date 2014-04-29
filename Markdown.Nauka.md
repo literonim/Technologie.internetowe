@@ -5,5 +5,5 @@
 #####Nagłówek piątego poziomu
 ######Nagłówek szóstego poziomu
 
-~~przykładowy tekst przykładowy tekst przykładowy tekst przykładowy tekst przykładowy tekst przykładowy tekst~~
+~~przykładowy tekst przykładowy tekst przykładowy tekst przykładowy tekst przykładowy tekst przykładowy tekst przykładowy tekst~~
 
