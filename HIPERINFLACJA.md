@@ -32,4 +32,6 @@ Przyczyną hiperinflacja w Niemczech była wojna. W sierpniu 1923 r. za jednego 
 
 
 #####__Więcej na__
-[Hiperinflacja Wiki](http://pl.wikipedia.org/wiki/Hiperinflacja)
+[Hiperinflacja wiki](http://pl.wikipedia.org/wiki/Hiperinflacja)
+[Hiperinflacja forbes](http://www.forbes.pl/artykuly/sekcje/Strategie/5-najwiekszych-hiperinflacji-w-dziejach,12087,2)
+[Hiperinflacja oscylator](http://www.oscylator.com/167/)
