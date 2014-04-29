@@ -31,9 +31,9 @@ __przykładowy tekst__
 ***
 
 
-> Cytat Cytat Cytat Cytat Cytat Cytat Cytat
+>Cytat Cytat Cytat Cytat Cytat Cytat Cytat
 
-Cytat Cytat Cytat Cytat Cytat Cytat Cytat
+>Cytat Cytat Cytat Cytat Cytat Cytat Cytat
 
 
 ```
