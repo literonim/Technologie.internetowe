@@ -75,6 +75,3 @@ trzeci akapit
 
 
 | Tabela | Tabela | Tabela|
-|         Tabela          |
-|-----------|
-|-------|
