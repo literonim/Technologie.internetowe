@@ -22,3 +22,7 @@ _przykładowy tekst_
 __przykładowy tekst__
 
 **przykładowy tekst**
+
+1. przykładowy tekst
+2. przykładowy tekst
+3. przykładowy tekst
