@@ -6,7 +6,6 @@ __Hiperinflacja__ - jest to inflacja na bardzo wysokim poziomie powodowana przez
 
 - __Węgry__, __1946 r.__, __13,6 bld proc.__
 
-
 W 1946 roku ceny na Węgrzech podwajały się co 16 godzin. W kraju pojawiły się banknoty o nominale miliard bilionów, czyli jedynka i 21 zer zamiast opisu cyfrowego znajdowało się oznaczenie Egymilliard B-pengo. Sytuacja była tak zła iż ówczesny rząd zmuszony był do wprowadzenia dodatkowej waluty, której używano jedynie do płacenia podatków i kupowania znaczków na poczcie. 
 
 ![](http://www.monetarium.hu/images/webshop/34822_1fd0d1e38cdc9aeb0ac25d31a129f01d.jpg)
@@ -18,3 +17,9 @@ Na scieżkę hiperinflacji Zimbabwe weszło wkrótce po 2000 r. gdy skonfiskowan
 
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Zimbabwe_$100_trillion_2009_Obverse.jpg/1024px-Zimbabwe_$100_trillion_2009_Obverse.jpg)
+
+- __Jugosławia__, __1994 r.__, __313 tys proc.__
+
+Hiperinflancja trwała na przestrzeni 2 lat między 1993 r. a 1995 r., w szczytowym momencie ceny podwajały się mniej więcej co 34 godziny. Najwyższy nominał jaki wyemitowano na pojedyńczym banknocie wynosił __500 miliardów__.
+
+![](http://globetribune.info/wp-content/uploads/2011/05/yugoslavia-dinar.jpg)
