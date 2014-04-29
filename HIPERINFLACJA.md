@@ -20,6 +20,6 @@ Na scieżkę hiperinflacji Zimbabwe weszło wkrótce po 2000 r. gdy skonfiskowan
 
 - __Jugosławia__, __1994 r.__, __313 tys proc.__
 
-Hiperinflancja trwała na przestrzeni 2 lat między 1993 r. a 1995 r., w szczytowym momencie ceny podwajały się mniej więcej co 34 godziny. Najwyższy nominał jaki wyemitowano na pojedyńczym banknocie wynosił __500 miliardów__.
+Hiperinflancja trwała na przestrzeni 2 lat między 1993 r. a 1995 r., w szczytowym momencie ceny podwajały się mniej więcej co 34 godziny. Najwyższy nominał jaki wyemitowano na pojedyńczym banknocie wynosił __500 miliardów__. Mimo iż dinar jugosłowiański formalnie był walutą narodową to praktycznie nie był on używany (posługiwano się dolarem amerykańskim bądź niemiecką marką). 
 
 ![](http://globetribune.info/wp-content/uploads/2011/05/yugoslavia-dinar.jpg)
