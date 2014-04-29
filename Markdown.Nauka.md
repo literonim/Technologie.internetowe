@@ -37,3 +37,7 @@ przykładowy tekst przykładowy tekst przykładowy tekst
 przykładowy tekst przykładowy tekst przykładowy tekst
 przykładowy tekst przykładowy tekst przykładowy tekst
 ```
+
+* przykładowy tekst
+* przykładowy tekst
+* przykładowy tekst
