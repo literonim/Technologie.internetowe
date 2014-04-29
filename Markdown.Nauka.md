@@ -72,3 +72,7 @@ trzeci akapit
 trzeci akapit
 trzeci akapit
 trzeci akapit
+
+
+| Tabela | Tabela | Tabela|
+---------------------------
