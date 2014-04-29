@@ -74,4 +74,4 @@ trzeci akapit
 trzeci akapit
 
 
-| Tabela | Tabela | Tabela|
+| Tabela | Tabela | Tabela |
