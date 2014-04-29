@@ -12,8 +12,8 @@
 [przykładowa strona](http://rlv.zcache.com/add_your_picture_rectangle_sticker-r2fe243d3d306498c84d508a57018d0bc_v9wxo_8byvr_324.jpg)
 
 - przykładowy tekst
-- przykładowy tekst
-- przykładowy tekst
++ przykładowy tekst
+* przykładowy tekst
 
 _przykładowy tekst_
 
@@ -38,6 +38,3 @@ przykładowy tekst przykładowy tekst przykładowy tekst
 przykładowy tekst przykładowy tekst przykładowy tekst
 ```
 
-+ przykładowy tekst
-+ przykładowy tekst
-+ przykładowy tekst
