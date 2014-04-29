@@ -14,9 +14,6 @@
 - przykładowy tekst
 - przykładowy tekst
 - przykładowy tekst
-1 przykładowy tekst
-2 przykładowy tekst
-3 przykładowy tekst
 
 _przykładowy tekst_
 
