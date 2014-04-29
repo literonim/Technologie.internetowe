@@ -26,3 +26,5 @@ __przykładowy tekst__
 1. przykładowy tekst
 2. przykładowy tekst
 3. przykładowy tekst
+
+---
