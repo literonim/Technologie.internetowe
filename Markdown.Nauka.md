@@ -74,7 +74,7 @@ trzeci akapit
 trzeci akapit
 
 
-| Name | Description          |
+| tabela | tabela                       | tabela      |   tabela  |   tabela  |
 | ------------- | ----------- |
-| Help      | Display the help window.|
-| Close     | Closes a window     |
+| tabela | tabela|        tabela     |  tabela | tabela |
+| tabela     | tabela     |  tabela  | tabela          |   tabela                            |
