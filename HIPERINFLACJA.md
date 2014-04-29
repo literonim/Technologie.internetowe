@@ -23,3 +23,7 @@ Na scieżkę hiperinflacji Zimbabwe weszło wkrótce po 2000 r. gdy skonfiskowan
 Hiperinflancja trwała na przestrzeni 2 lat między 1993 r. a 1995 r., w szczytowym momencie ceny podwajały się mniej więcej co 34 godziny. Najwyższy nominał jaki wyemitowano na pojedyńczym banknocie wynosił __500 miliardów__. Mimo iż dinar jugosłowiański formalnie był walutą narodową to praktycznie nie był on używany (posługiwano się dolarem amerykańskim bądź niemiecką marką). 
 
 ![](http://globetribune.info/wp-content/uploads/2011/05/yugoslavia-dinar.jpg)
+
+- __Niemcy__, 
+
+![](http://upload.wikimedia.org/wikipedia/commons/4/41/100-Billionen-Geldschein-2.jpg)
