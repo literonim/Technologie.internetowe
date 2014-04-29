@@ -19,6 +19,9 @@
 3. przykładowy tekst
 
 _przykładowy tekst_
+
 *przykładowy tekst*
+
 __przykładowy tekst__
+
 **przykładowy tekst**
