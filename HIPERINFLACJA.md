@@ -31,5 +31,5 @@ Przyczyną hiperinflacja w Niemczech była wojna. W sierpniu 1923 r. za jednego 
 ![](http://upload.wikimedia.org/wikipedia/commons/4/41/100-Billionen-Geldschein-2.jpg)
 
 
-__Zobacz też__
+####__Zobacz też__
 ---
