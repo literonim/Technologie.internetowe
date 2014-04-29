@@ -26,6 +26,6 @@ Hiperinflancja trwała na przestrzeni 2 lat między 1993 r. a 1995 r., w szczyto
 
 - __Niemcy__, __1923 r.__, __29,5 tys proc.__
 
-Sytuacja była tak zła iż ludzie zmuszeni byli __przyjeżdżać taczkami po swoje wypłaty__, a ceny podwająły się średnio co około 4 dni. 
+Przyczyną hiperinflacja w Niemczech była wojna. W sierpniu 1923 r. za jednego dolara amerykańskiego trzeba było zapłacić __1 milion__, a w listopadzie __238 mln__. Sytuacja była tak zła iż ludzie zmuszeni byli __przyjeżdżać taczkami po swoje wypłaty__, a ceny podwająły się średnio co około 4 dni. 
 
 ![](http://upload.wikimedia.org/wikipedia/commons/4/41/100-Billionen-Geldschein-2.jpg)
