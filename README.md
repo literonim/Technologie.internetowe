@@ -92,3 +92,5 @@ __To tyle odnośnie krótkiego wstępu, poniżej zamieszczam listę z przydatnym
 [Github Wikipedia](http://pl.wikipedia.org/wiki/GitHub)
 
 [Podstawy Git-a i Github-a](http://designconcept.webdev20.pl/articles/podstawy-gita-i-githuba/)
+
+
